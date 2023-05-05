@@ -1475,18 +1475,18 @@ header {
 
     content: counter(count)"%";
     animation: counter2 3s linear 3s alternate;
-    counter-reset: count 55;
+    counter-reset: count 70;
 
 
 }
 
 @keyframes counter2 {
     25% {
-        counter-increment: count -55;
+        counter-increment: count -70;
     }
 
     50% {
-        counter-increment: count -40;
+        counter-increment: count -50;
     }
 
     70% {
@@ -1539,7 +1539,7 @@ header {
 
     content: counter(count)"%";
     animation: counter4 3s linear 9s alternate;
-    counter-reset: count 60;
+    counter-reset: count 70;
 
 
 }
@@ -1556,15 +1556,15 @@ header {
 
 @keyframes counter4 {
     30% {
-        counter-increment: count -60;
+        counter-increment: count -70;
     }
 
     60% {
-        counter-increment: count -40;
+        counter-increment: count -50;
     }
 
     90% {
-        counter-increment: count -20;
+        counter-increment: count -30;
     }
 
     100% {
