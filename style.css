@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #010313;
+    background-color: #0F0826;
     font-family: 'Poppins', sans-serif;
 
 }
@@ -28,8 +28,8 @@ header {
 }
 
 .navbar {
-    background-color: #010313;
-    border-bottom: 1px solid #202839;
+    background-color: #0F0826;
+    
 }
 .navbar-brand{
     font-family: 'Quicksand', sans-serif;
@@ -1985,8 +1985,8 @@ header {
 }
 
 .FOOTER {
-    background-color: #010313;
-    border-top: 1px solid #202839;
+    background-color: #0F0826;
+    border-top: 2px solid #101726;
 }
 
 @media(min-width:1200px) {
